@@ -1,6 +1,5 @@
 # Netflix Userbase Data Analysis Project
 
-![Netflix Logo]([https://example.com/netflix-logo.png](https://images.ctfassets.net/4cd45et68cgf/Rx83JoRDMkYNlMC9MKzcB/2b14d5a59fc3937afd3f03191e19502d/Netflix-Symbol.png?w=700&h=456))
 
 This project aims to provide valuable insights and trends about the userbase of the popular streaming platform, Netflix. By analyzing user data, we can uncover patterns, preferences, and behaviors of Netflix users, contributing to a deeper understanding of the platform's audience.
 
