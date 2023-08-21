@@ -19,7 +19,7 @@ Netflix boasts millions of subscribers worldwide, making it an intriguing subjec
 
 ## Data Collection
 
-The data used for this analysis is collected from a combination of publicly available datasets, user surveys, and web scraping (in accordance with Netflix's terms of use). All data used is anonymized and aggregated to maintain user privacy.
+The data used for this analysis was collected from a Kaggle Dataset.
 
 ## Data Analysis
 
@@ -46,20 +46,6 @@ The data analysis process involves several key steps:
 - User segmentation to understand different user profiles and preferences.
 - Recommendations to improve content curation and user experience.
 
-
-## Usage
-
-The analysis results can be viewed in the form of visualizations and insights. You can customize the analysis parameters or add new features to the project based on your requirements.
-
-## Contributing
-
-I welcome contributions to the Netflix Userbase Data Analysis Project. If you have any suggestions, improvements, or additional analyses to propose, please follow these steps:
-
-1. Fork the repository.
-2. Create a new branch for your changes: `git checkout -b feature/your-feature-name`.
-3. Make your modifications and commit them: `git commit -m "Add your message here"`.
-4. Push your changes to your forked repository: `git push origin feature/your-feature-name`.
-5. Open a pull request in our repository, describing the changes you've made and why they are valuable.
 
 ## License
 
